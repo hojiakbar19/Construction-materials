@@ -165,6 +165,7 @@ li {
 .action__title {
     font-size: 34px;
     font-weight: 500;
+   
 }
 
 .card {
@@ -205,6 +206,7 @@ li {
 .action .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     margin-top: 18px;
 }
 
